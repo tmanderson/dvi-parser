@@ -1,0 +1,33 @@
+This is TeX, Version 3.14159265 (TeX Live 2015) (preloaded format=tex 2015.5.24)  28 AUG 2015 20:19
+**Diagram.tex
+(./Diagram.tex
+! Undefined control sequence.
+l.1 \documentclass
+                  [12pt, letterpaper]{article}
+? 
+! Undefined control sequence.
+l.2 \title
+          {Talking about it}
+? 
+! Undefined control sequence.
+l.4 \begin
+          {document}
+? 
+! Undefined control sequence.
+l.5 \maketitle
+              
+? 
+! Undefined control sequence.
+l.7 \section
+            {Section 1}
+? 
+! Undefined control sequence.
+l.11 ^^I\vec{v} = \frac
+                       {1}{2}mv^2
+? 
+! Undefined control sequence.
+l.16 \section
+             {Section 2}
+? 
+[1] )
+Output written on Diagram.dvi (1 page, 616 bytes).
