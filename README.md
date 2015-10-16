@@ -6,7 +6,7 @@ TeX document conversions completely in node (particularly a highly configurable
 HTML/CSS/JS output).
 
 I'll also be updating the Wiki for those that are interested. Currently, I there's
-a [DVI Specification Explained](wiki/DVI-Specification-Explained) section that I
+a [DVI Specification Explained](https://github.com/tmanderson/dvi-parser/wiki/DVI-Specification-Explained) section that I
 put together for my own benefit (sourced from a few different online pages).
 
 ### TODO
